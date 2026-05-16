@@ -12,5 +12,5 @@ Feel free to add your ideas here. What should Cypher do?
 - Intigration of Cyphers old user DB ( c.a 1 Milliarden Persons with adress / Tel Number / Lastname, Name )
 - Deepfake & Synthetic Media Erkennung
 - Global Map Intelligence View
-  
+- Anti ddos Bot Network
 
